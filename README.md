@@ -1,3 +1,3 @@
 <body>
-  <div style="color:#fffccc">Why hello there</div>
+  <div style="color:#339933">Why hello there</div>
 </body>
